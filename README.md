@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Om Nallawar</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omreddy45" alt="omreddy45" /></a> </p>
-
 - 🌱 I’m currently learning **AI, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omreddy45](https://github.com/omreddy45)
